@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(66, 194, 158);
+}
+
+
+
+#table{
+    width: 100%;
+    padding: 15px 0;
+    margin: 0;
+    
+    font-family: 'Railway', sans-serif;
+    font-size: 1.5rem;
+    color:white;
+    text-align: center;
+}
+
+#refresh{
+    color: blue;
+    block-size: 40px;
+}
+
+#refresh:hover{
+    background-color: darkslategray;
+}
+
+#addContact{
+    color:blue;
+    block-size: 40px;
+}
+
+#addContact:hover{
+    background-color: darkslategray;
+}
+
+#homeLink{
+    color:blue;
+    block-size: 40px;
+}
+
+#homeLink:hover{
+    background-color: darkslategray;
+}
+
+#editContact{
+    color:blue;
+    block-size: 40px;
+}
+
+#editContact:hover{
+    background-color: darkslategray;
+}
+
+#deleteContact{
+    color:blue;
+    block-size: 40px;
+}
+
+#deleteContact:hover{
+    background-color: darkslategray;
+}
